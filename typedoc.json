@@ -1,0 +1,9 @@
+{
+  "entryPoints": [
+    "./lib/index.ts"
+  ],
+  "exclude": "**/*+(e2e|spec|index).ts",
+  "hideGenerator": true,
+  "includeVersion": true,
+  "out": "docs"
+}
